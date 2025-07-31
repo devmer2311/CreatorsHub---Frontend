@@ -8,7 +8,7 @@ import {
   Home, 
   Search, 
   Briefcase, 
-  User, 
+  User as uicon, 
   Menu,
   X,
   Users,
@@ -183,7 +183,7 @@ export default function Navbar() {
                         onClick={handleMyProfile}
                         className="w-full justify-start text-gray-600 hover:text-blue-600"
                       >
-                        <User className="w-4 h-4 mr-2" />
+                        <uicon className="w-4 h-4 mr-2" />
                         My Profile
                       </Button>
                       <Button
