@@ -3,6 +3,14 @@
 A modern platform for creators to showcase portfolios, connect with others, and explore job opportunities.
 *Think LinkedIn + Behance for creative professionals.*
 
+## Demo Credentials (For signup)
+
+```bash
+email : user@example.com
+
+password : user@123
+```
+
 ---
 
 ## 🚀 Features
